@@ -1,0 +1,65 @@
+.first {
+    width: 1000px;
+    height: 100px;
+    margin-top: 1px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.boxyellow {
+    width: 140px;
+    height: 80px;
+    float: left;
+    border: 1px solid black;
+    background-color: yellow;
+}
+.boxorange {
+    width: 850px;
+    height: 80px;
+    float: right;
+    border: 1px solid black;
+    background-color: orangered;
+
+}
+
+.second {
+    width: 1000px;
+    height: 180px;
+    margin-top: 1px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.boxgreen {
+    width: 140px;
+    height: 350px;
+    float: left;
+    border: 1px solid black;
+    background-color: lightgreen;
+}
+.boxcyan {
+    width: 705px;
+    height: 350px;
+    float: left;
+    margin-left: 5px;
+    border: 1px solid black;
+    background-color:silver
+}
+
+.boxgray {
+    width: 140px;
+    height: 350px;
+    float: right;
+    border: 1px solid black;
+    background-color:cyan
+}
+
+.boxblue {
+    width: 1000px;
+    height: 80px;
+    float: left;
+    margin-top: 18px;
+    margin-right: auto;
+    margin-left: 28px;
+    border: 1px solid black;
+    background-color: blue;
+}

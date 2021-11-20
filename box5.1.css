@@ -1,0 +1,36 @@
+.boxyellow {
+    width: 239px;
+    height: 480px;
+    border: 1px solid black;
+    margin: 11px;
+    float: left;
+    background-color: yellow;
+    padding-top: 25px;
+}
+.boxorange {
+    width: 239px;
+    height: 480px;
+    border: 1px solid black;
+    margin: 11px;
+    float: left;
+    background-color:orangered;
+    padding-top: 25px;
+}
+.boxsagegreen {
+    width: 239px;
+    height: 480px;
+    border: 1px solid black;
+    margin: 11px;
+    float: left;
+    background-color: lightgreen;
+    padding-top: 25px;
+}
+.boxblue {
+    width: 239px;
+    height: 480px;
+    border: 1px solid black;
+    margin: 11px;
+    float: left;
+    background-color: cyan;
+    padding-top: 25px;
+}
